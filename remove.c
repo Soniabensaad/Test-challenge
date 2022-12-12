@@ -2,6 +2,7 @@
 #include <string.h>
 #include <math.h>
 #include <stdlib.h>
+/* 27. Remove Element from Leetcode*/
 int removeElement(int* nums, int numsSize, int val)
 {
 
